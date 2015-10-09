@@ -1,0 +1,14 @@
+{
+    "name": "gulp-bye-bye-magento-wysiwyg",
+    "description": "Say goodbye to the Magento WYSIWYG and author content in your editor of choice",
+    "author": {
+        "name": "Max Chadwick",
+        "url": "http://mpchadwick.github.io/"
+    },
+    "version": "0.1.0",
+    "main": "index.js",
+    "dependencies": {
+        "gulp-util": "3.0.x",
+        "mysql": "2.9.x"
+    }
+}
