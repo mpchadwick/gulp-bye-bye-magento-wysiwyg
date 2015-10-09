@@ -10,5 +10,9 @@
     "dependencies": {
         "gulp-util": "3.0.x",
         "mysql": "2.9.x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mpchadwick/gulp-bye-bye-magento-wysiwyg.git"
     }
 }
